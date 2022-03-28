@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9a867022-fc4a-40f7-bca5-d46a044f9639" name="Changes" comment="Yes">
+      <change afterPath="$PROJECT_DIR$/.idea/Carelp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Carelp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/PanchenkoCourseWork_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutoHelper-core.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sfedu/autoHelper/AutoHelperApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/sfedu/carelp/CarelpMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sfedu/autoHelper/ConstantsValues.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/sfedu/carelp/ConstantsValues.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sfedu/autoHelper/dataProvider/DataProviderCsv.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/sfedu/carelp/dataProvider/DataProviderCsv.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sfedu/autoHelper/dataProvider/DataProviderDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/sfedu/carelp/dataProvider/DataProviderJdbc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sfedu/autoHelper/dataProvider/DataProviderXml.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/sfedu/carelp/dataProvider/DataProviderXml.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sfedu/autoHelper/dataProvider/IDataProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/sfedu/carelp/dataProvider/IDataProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sfedu/autoHelper/entity/BusinessCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/sfedu/carelp/entity/BusinessCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sfedu/autoHelper/entity/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/sfedu/carelp/entity/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sfedu/autoHelper/entity/CarProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/sfedu/carelp/entity/CarProperties.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sfedu/autoHelper/entity/DiscountCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/sfedu/carelp/entity/DiscountCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sfedu/autoHelper/entity/InfoCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/sfedu/carelp/entity/InfoCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sfedu/autoHelper/entity/SparePart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/sfedu/carelp/entity/SparePart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sfedu/autoHelper/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/sfedu/carelp/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sfedu/autoHelper/entity/enums/Status.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/sfedu/carelp/entity/enums/Status.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sfedu/autoHelper/entity/enums/TypeOfTransmission.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/sfedu/carelp/entity/enums/TypeOfTransmission.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sfedu/autoHelper/entity/historyContent/HistoryContent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sfedu/autoHelper/entity/xmlWriter/XmlAnyElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/sfedu/carelp/entity/xmlWriter/XmlAnyElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sfedu/autoHelper/lab1/HibernateDataProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/sfedu/carelp/lab1/HibernateDataProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sfedu/autoHelper/lab1/IHibernateDataProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/sfedu/carelp/lab1/IHibernateDataProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sfedu/autoHelper/lab1/lab1.hbn_cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/sfedu/carelp/lab1/lab1.hbn_cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sfedu/autoHelper/lab2/HibernateDataProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sfedu/autoHelper/lab2/IHibernateDataProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sfedu/autoHelper/lab2/PanchenkoComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sfedu/autoHelper/lab2/TestEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sfedu/autoHelper/lab2/lab2.hbn_cfg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sfedu/autoHelper/lab3/HibernateDataProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sfedu/autoHelper/lab3/IHibernateDataProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sfedu/autoHelper/lab3/joinedTable/BusinessCard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sfedu/autoHelper/lab3/joinedTable/DiscountCard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sfedu/autoHelper/lab3/joinedTable/InfoCard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sfedu/autoHelper/lab3/lab3.hbn_cfg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sfedu/autoHelper/lab3/mappedSuperclass/BusinessCard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sfedu/autoHelper/lab3/mappedSuperclass/DiscountCard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sfedu/autoHelper/lab3/mappedSuperclass/InfoCard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sfedu/autoHelper/lab3/singleTable/BusinessCard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sfedu/autoHelper/lab3/singleTable/DiscountCard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sfedu/autoHelper/lab3/singleTable/InfoCard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sfedu/autoHelper/lab3/tablePerClass/BusinessCard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sfedu/autoHelper/lab3/tablePerClass/DiscountCard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sfedu/autoHelper/lab3/tablePerClass/InfoCard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sfedu/autoHelper/lab4/HibernateDataProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sfedu/autoHelper/lab4/IHibernateDataProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sfedu/autoHelper/lab4/componentMapTypeMapping/InfoCard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sfedu/autoHelper/lab4/componentMapTypeMapping/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sfedu/autoHelper/lab4/componentTypeMapping/InfoCard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sfedu/autoHelper/lab4/componentTypeMapping/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sfedu/autoHelper/lab4/lab4.hbn_cfg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sfedu/autoHelper/lab4/listTypeMapping/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sfedu/autoHelper/lab4/mapTypeMapping/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sfedu/autoHelper/lab4/setTypeMapping/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sfedu/autoHelper/lab5/dataProvider/DataProviderCriteria.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sfedu/autoHelper/lab5/dataProvider/DataProviderHQL.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sfedu/autoHelper/lab5/dataProvider/DataProviderNativeSQL.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sfedu/autoHelper/lab5/dataProvider/IHibernateDataProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sfedu/autoHelper/lab5/entity/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sfedu/autoHelper/lab5/entity/CarProperties.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sfedu/autoHelper/lab5/entity/SparePart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sfedu/autoHelper/lab5/lab5.hbn_cfg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sfedu/autoHelper/util/ConfigurationUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/sfedu/carelp/util/ConfigurationUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sfedu/autoHelper/util/HibernateUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/sfedu/carelp/util/HibernateUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/environment.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/environment.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/filesCsv/businessCard.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Csv/businessCard.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/filesCsv/car.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Csv/car.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/filesCsv/discountCard.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Csv/discountCard.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/filesXml/businessCard.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Xml/businessCard.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/filesXml/car.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Xml/car.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/filesXml/discountCard.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Xml/discountCard.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/log4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/logFiles/application-20220211.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/logFiles/application-20220212.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/logFiles/application-20220214.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/logFiles/application-20220218.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/logFiles/application-20220219.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/logFiles/application-20220220.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/logFiles/application-20220221.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/logFiles/application-20220223.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/logFiles/application-20220226.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/logFiles/application-20220228.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/logFiles/application-20220304.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/sfedu/autoHelper/lab1/AutoHelperApiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/sfedu/carelp/lab1/CarelpTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/sfedu/autoHelper/lab2/AutoHelperApiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/sfedu/carelp/lab2/CarelpTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/sfedu/autoHelper/lab3/AutoHelperApiJoinedTableTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/sfedu/autoHelper/lab3/AutoHelperApiMappedSuperclassTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/sfedu/autoHelper/lab3/AutoHelperApiSingleTableTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/sfedu/autoHelper/lab3/AutoHelperApiTablePerClassTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/sfedu/autoHelper/lab4/AutoHelperApiTypeComponentMapTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/sfedu/autoHelper/lab4/AutoHelperApiTypeComponentTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/sfedu/autoHelper/lab4/AutoHelperApiTypeListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/sfedu/autoHelper/lab4/AutoHelperApiTypeMapTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/sfedu/autoHelper/lab4/AutoHelperApiTypeSetTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/sfedu/autoHelper/lab5/CarInitForTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/sfedu/autoHelper/lab5/CriteriaTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/sfedu/autoHelper/lab5/HQLTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/sfedu/autoHelper/lab5/NativeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/sfedu/autoHelper/lab5/TimeTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="test" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="26zjyzdfgZkCXXb7yy8XDx5FjHl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AutoHelper-core/AutoHelper-core" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="JUnit.CarelpTest">
+    <configuration name="CarelpTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Carelp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.sfedu.carelp.lab2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.sfedu.carelp.lab2" />
+      <option name="MAIN_CLASS_NAME" value="ru.sfedu.carelp.lab2.CarelpTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarelpTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Carelp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.sfedu.carelp.lab1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.sfedu.carelp.lab1" />
+      <option name="MAIN_CLASS_NAME" value="ru.sfedu.carelp.lab1.CarelpTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarelpTest.createPositive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Carelp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.sfedu.carelp.lab2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.sfedu.carelp.lab2" />
+      <option name="MAIN_CLASS_NAME" value="ru.sfedu.carelp.lab2.CarelpTest" />
+      <option name="METHOD_NAME" value="createPositive" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarelpTest.readByIdPositive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Carelp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.sfedu.carelp.lab2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.sfedu.carelp.lab2" />
+      <option name="MAIN_CLASS_NAME" value="ru.sfedu.carelp.lab2.CarelpTest" />
+      <option name="METHOD_NAME" value="readByIdPositive" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CarelpTest (1)" />
+        <item itemvalue="JUnit.CarelpTest.readByIdPositive" />
+        <item itemvalue="JUnit.CarelpTest.createPositive" />
+        <item itemvalue="JUnit.CarelpTest" />
+        <item itemvalue="JUnit.CarelpTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a867022-fc4a-40f7-bca5-d46a044f9639" name="Changes" comment="" />
+      <created>1648433572666</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648433572666</updated>
+      <workItem from="1648433581760" duration="1570000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Yes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Yes" />
+  </component>
+</project>
